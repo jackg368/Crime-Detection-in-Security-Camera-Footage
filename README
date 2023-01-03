@@ -1,0 +1,6 @@
+Crime Detection in Security Camera Footage
+
+Dataset available at https://www.kaggle.com/datasets/odins0n/ucf-crime-dataset (Very large dataset, not included in this repo)
+Easiest way to run: Notebooks directory contains the notebooks of 4 different models. Run these models in the Kaggle environment to achieve the same results.
+Current Python files contain the 3CNN model. Run main.py to see results.
+Models directory contains the weights of some fully trained models.
